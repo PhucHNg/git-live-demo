@@ -1,3 +1,3 @@
 # git-live-demo
 
-This is a git live demo
+Here is a conflict made from RStudio.
