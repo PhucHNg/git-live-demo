@@ -1,3 +1,3 @@
 # git-live-demo
 
-Here is a conflict made from RStudio.
+Here is an edit made from GitHub
